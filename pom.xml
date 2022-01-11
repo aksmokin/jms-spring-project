@@ -8,11 +8,11 @@
 		<version>2.1.6.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>guru.springframework</groupId>
-	<artifactId>sfg-jms</artifactId>
+	<groupId>spring.project.jms</groupId>
+	<artifactId>jms-spring-project</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>sfg-jms</name>
-	<description>Example JMS</description>
+	<name>jms-spring-project</name>
+	<description>A Spring Framework demo using the Java Messaging Service</description>
 
 	<properties>
 		<java.version>11</java.version>
